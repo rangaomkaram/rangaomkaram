@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rangaomkaram
-- 👀 I’m interested in GEO-AI,GIS,Computer vision, ML and DL.
+- 👀 I’m interested in Computer vision,Geo-AI,GIS, ML and DL.
 - 🌱 I’m currently Pursuing Masters in Geodesy and Geoinformatics.
 - 💞️ I’m currently working  on my MasterThesis in Computer Vision: WEED VS GRASSLAND USING CAMERA(Stereo,mono and moblie)
 - 📫 How to reach me https://www.linkedin.com/in/ranga-sesha-uday-kumar-raju-omkaram-b719b5134/
