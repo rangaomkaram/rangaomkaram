@@ -3,6 +3,8 @@
 - 🌱 I’m currently Pursuing Masters in Geodesy and Geoinformatics.
 - 💞️ I’m currently working  on my MasterThesis in Computer Vision: WEED VS GRASSLAND USING CAMERA(Stereo,mono and moblie)
 - 📫 How to reach me https://www.linkedin.com/in/ranga-sesha-uday-kumar-raju-omkaram-b719b5134/
+- 📫 I have experienced in programming langaues like Python,R,C++
+- 📫 I worked with Software Tools like QTCreator,QGIS,ArcGIS
 - 📫 Working with  MONGODB,PowerBI ,Python ,SQL,Excel
 
 <!---
