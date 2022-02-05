@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rangaomkaram
-- 👀 I’m interested in software developement,Data-Driven problems,Data analaysis,webdevelopment,Computer vision,Geo-AI,GIS, ML and DL.
+- 👀 I’m interested in software developement,Data-Driven problems,Data analysis,webdevelopment,Computer vision,Geo-AI,GIS, ML and DL.
 - 🌱 I  pursued Masters in Geodesy and Geoinformatics.
 - 💞️ I worked on my  MasterThesis in Computer Vision: WEED VS GRASSLAND USING CAMERA(Stereo,mono and moblie) in John Deere Company.
 - 📫 I worked as Data Analyst intern (Domain:Agriculture) in John Deere
