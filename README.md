@@ -8,6 +8,7 @@
 - 📫 I have experienced in programming languages like Python,R,C++
 - 📫 I worked with Software Tools like QTCreator,QGIS,ArcGIS
 - 📫 I worked  with  MONGODB,PowerBI ,Python Frame works:Numpy,Flask,Pandas,Sklearn,OpenCV,Tensorflow and SQL,Excel.
+# Looking for Job Oppotunites in the field of Data Analyst,DataScience.
 <!---
 rangaomkaram/rangaomkaram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
