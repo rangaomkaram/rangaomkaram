@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rangaomkaram
-- 👀 I'm currently working as DataScience Content Writer for blogs and articels in Buggy Programmer website(https://buggyprogrammer.com/)
+- 👀 I'm currently working as DataScience Content Writer for blogs and articles in Buggy Programmer website(https://buggyprogrammer.com/)
 - 👀 I’m interested in software developement,Data-Driven problems,Data analysis,webdevelopment,Computer vision,Geo-AI,GIS, ML and DL. 
 - 🌱 I  pursued Masters in Geodesy and Geoinformatics.
 - 💞️ I worked on my  MasterThesis in Computer Vision: WEED VS GRASSLAND USING CAMERA(Stereo,mono and moblie) in John Deere Company.
