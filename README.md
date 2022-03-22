@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rangaomkaram
 - 👀 I'm currently working as DataScience Content Writer for blogs and articles in Buggy Programmer website(https://buggyprogrammer.com/)
-- 👀 I’m interested in software developement,Data-Driven problems,Data analysis,webdevelopment,Computer vision,Geo-AI,GIS, ML and DL. 
+- 👀 I’m interested in Data-Analytics,DataScience, ComputerVision, Web-Development.
 - 🌱 I  pursued Masters in Geodesy and Geoinformatics.
-- 💞️ I worked on my  MasterThesis in Computer Vision: WEED VS GRASSLAND USING CAMERA(Stereo,mono and moblie) in John Deere Company.
 - 📫 I worked as Data Analyst intern (Domain:Agriculture) in John Deere
 - 📫 How to reach me https://www.linkedin.com/in/rangaomkaram/ , omkaram.ranga@gmail.com
 
