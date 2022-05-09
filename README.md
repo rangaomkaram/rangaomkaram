@@ -3,11 +3,11 @@
 - 👀 I’m interested in Data-Analytics,DataScience, ComputerVision, Web-Development.
 - 🌱 I  pursued Masters in Geodesy and Geoinformatics.
 - 📫 I worked as Data Analyst intern (Domain:Agriculture) in John Deere
-- 📫 How to reach me https://www.linkedin.com/in/rangaomkaram/ , omkaram.ranga@gmail.com
+- 📫 How to reach me https://www.linkedin.com/in/rangaomkaram/
+-               email Id : omkaram.ranga@gmail.com
 
 - 📫 I have experienced in programming languages like Python,R,C++
 - 📫 I worked with Software Tools like QTCreator,QGIS,ArcGIS
-- 📫 I am currently working   with  back-end applications using Django,Flask,FAST API 
 
   ## Looking for Job Opportunites roles like Data Analyst,SQL developer,Python Developer and Data Engineer.
 <!---
