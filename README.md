@@ -3,7 +3,7 @@
 -        using - HTML + CSS + REACTS + Bootstrap -> for Froetend development
 -        DataBases - MySQL,Postgres,sqlite3, MongoDB
 -        Backend Development - Python/Django
-- 👀 I'm I'm currently freelancer for writing  blogs and articles for various websites. 
+- 👀 I'm currently freelancer for writing  blogs and articles for various websites. 
 - 📫 I worked as Data Analyst intern (Domain:Agriculture) in John Deere
 - 📫 How to reach me: [LinkedIn @Ranga Omkaram](https://www.linkedin.com/in/rangaomkaram/) and  [Email me](omkaram.ranga@gmail.com)
 - 📫 I have experienced in programming languages like Python,R,C++
