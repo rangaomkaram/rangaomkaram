@@ -4,9 +4,9 @@
 - 📫 I have experienced in programming languages like <b>Python,SQL,JavaScript,R,C++</b>
 - 📫 Skills earned 
        <ul>
-       <br>Frontend development: - HTML + CSS + REACTJS + Bootstrap 
-        <br>DataBases             - MySQL,PostgreSQL
-        <br>Backend Development   - Python/Django
+       <li>Frontend development: - HTML + CSS + REACTJS + Bootstrap </li>
+       <li> DataBases             - MySQL,PostgreSQL </li>
+       <li> Backend Development   - Python/Django </li>
         </ul>
 - 📫 I worked with Software Tools like QTCreator,QGIS.
 - 📫 I worked as Data Analyst intern (Domain:Agriculture) in John Deere
