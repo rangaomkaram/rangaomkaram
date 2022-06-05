@@ -11,6 +11,7 @@
 - 📫 I worked with Software Tools like QTCreator,QGIS.
 - 📫 I worked as Data Analyst intern (Domain:Agriculture) in John Deere
 - 📫 How to reach me: [LinkedIn @Ranga Omkaram](https://www.linkedin.com/in/rangaomkaram/) and  [Email me](omkaram.ranga@gmail.com)
+- Follow Me [Twitter@ranga_omkaram](https://twitter.com/ranga_omkaram)
 
 
  
