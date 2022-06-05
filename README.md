@@ -4,8 +4,8 @@
 - 📫 I have experienced in programming languages like <b>Python,SQL,JavaScript,R,C++</b>
 - 📫 Skills earned 
         Frontend development: - HTML + CSS + REACTJS + Bootstrap 
-        DataBases             - MySQL,PostgreSQL
-        Backend Development   - Python/Django
+        <br>DataBases             - MySQL,PostgreSQL
+        <br>Backend Development   - Python/Django
 - 📫 I worked with Software Tools like QTCreator,QGIS.
 - 📫 I worked as Data Analyst intern (Domain:Agriculture) in John Deere
 - 📫 How to reach me: [LinkedIn @Ranga Omkaram](https://www.linkedin.com/in/rangaomkaram/) and  [Email me](omkaram.ranga@gmail.com)
