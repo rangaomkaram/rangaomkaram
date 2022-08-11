@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rangaomkaram
--  👀 Looking for Job Opportunites roles like Python Developer, Data Analyst, PowerBI developer .        
+-  👀 Looking for Job Opportunites roles like Software Developer,Web developer.        
 - 📫 I'm currently freelancer for writing  blogs and articles for various websites. 
 - 📫 I have experienced in programming languages like <b>Python,SQL,JavaScript,R,C++</b>
 - 📫 Skills earned 
