@@ -4,7 +4,7 @@
 - 📫 I have experienced in programming languages like <b>Python,SQL,JavaScript,R,C++</b>
 - 📫 Skills earned 
        <ul>
-       <li>Frontend development: - HTML + CSS + REACTJS + Bootstrap </li>
+       <li>Frontend development: - REACTJS </li>
        <li> DataBases             - MySQL,PostgreSQL </li>
        <li> Backend Development   - Python/Django </li>
         </ul>
