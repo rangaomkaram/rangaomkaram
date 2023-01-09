@@ -3,10 +3,11 @@
 - 📫 I have experienced in programming languages like <b>Python,SQL,JavaScript,R,C++</b>
 - 📫 Skills earned 
        <ul>
-       <li> Data Analyst          - SQL,PowerBI,EXCEL
-       <li> DataBases             - MySQL,PostgreSQL </li>
-       <li> Backend Development   - Python/Django </li>
-        </ul>
+       <li> UI / Forntend         - HTML,CSS,BOOTSTRAP,REACTJS</li>
+       <li> DataBases             - MySQL,PostgreSQL,MongoDB </li>
+       <li> Backend Development   - Flask/Django,nodejs  </li>
+        <li> Data Analytics       - SQL,PowerBI,EXCEL
+      </ul>
 - 📫 I worked with Software Tools like QTCreator,QGIS.
 - 📫 I worked as Data Analyst intern (Domain:Agriculture) in John Deere
 - 📫 How to reach me: [LinkedIn @Ranga Omkaram](https://www.linkedin.com/in/rangaomkaram/) and  [Email me](omkaram.ranga@gmail.com)
