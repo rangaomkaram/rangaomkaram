@@ -1,15 +1,16 @@
 - 👋 Hi, I’m @rangaomkaram
--  👀 Looking for Job Opportunites roles like Software Developer,Web developer.        
+-  📫 At present working as Front-end Developer at Megaroy Solutions
 - 📫 I have experienced in programming languages like <b>Python,SQL,JavaScript,R,C++</b>
 - 📫 Skills earned 
        <ul>
-       <li> UI / Forntend         - HTML,CSS,BOOTSTRAP,REACTJS</li>
+       <li> UI / Forntend         - HTML, CSS, JavaScript, BOOTSTRAP,React.js</li>
        <li> DataBases             - MySQL,PostgreSQL,MongoDB </li>
-       <li> Backend Development   - Flask/Django,nodejs  </li>
-        <li> Data Analytics       - SQL,PowerBI,EXCEL
+       <li> Backend Development   - Flask/Django,Node.js  </li>
+        <li> Data Analytics       - SQL, PowerBI, EXCEL
       </ul>
-- 📫 I worked with Software Tools like QTCreator,QGIS.
-- 📫 I worked as Data Analyst intern (Domain:Agriculture) in John Deere
+
+- 📫 I worked with Software Tools like VSCode, QTCreator, and QGIS.
+- 📫 I worked as a Data Analyst intern (Domain: Agriculture) at John Deere
 - 📫 How to reach me: [LinkedIn @Ranga Omkaram](https://www.linkedin.com/in/rangaomkaram/) and  [Email me](omkaram.ranga@gmail.com)
 - Follow Me [Twitter@ranga_omkaram](https://twitter.com/ranga_omkaram)
 
