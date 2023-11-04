@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @rangaomkaram
--  📫 At present working as Front-end Developer at Megaroy Solutions
+-  📫 At present working as a Front-end Developer at Megaroy Solutions
 - 📫 I have experienced in programming languages like <b>Python,SQL,JavaScript,R,C++</b>
 - 📫 Skills earned 
        <ul>
-       <li> UI / Forntend         - HTML, CSS, JavaScript, BOOTSTRAP,React.js</li>
+       <li> UI / Forntend         - HTML, CSS, JavaScript, BOOTSTRAP, React.js</li>
        <li> DataBases             - MySQL,PostgreSQL,MongoDB </li>
        <li> Backend Development   - Flask/Django,Node.js  </li>
         <li> Data Analytics       - SQL, PowerBI, EXCEL
