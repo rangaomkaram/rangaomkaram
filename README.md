@@ -10,9 +10,7 @@
       </ul>
 
 - 📫 I worked with Software Tools like VSCode, QTCreator, and QGIS.
-- 📫 I worked as a Data Analyst intern (Domain: Agriculture) at John Deere
-- 📫 How to reach me: [LinkedIn @Ranga Omkaram](https://www.linkedin.com/in/rangaomkaram/) and  [Email me](omkaram.ranga@gmail.com)
-- Follow Me [Twitter@ranga_omkaram](https://twitter.com/ranga_omkaram)
+- 📫 I worked as a Geo-Spatial Analyst intern (Domain: Agriculture) at John Deere
 
 
  
