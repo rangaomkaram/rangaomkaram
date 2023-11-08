@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rangaomkaram
 -  📫 At present working as a Front-end Developer
-- 📫 I have experienced in programming languages like <b>Python,SQL,JavaScript,R,C++</b>
+- 📫 I have experienced in programming languages like <b>JavaScript, Python, R(RStudio), Cpp</b>
 - 📫 Skills earned 
        <ul>
        <li> FrontEnd         - HTML, CSS, JavaScript, BOOTSTRAP, React.js</li>
