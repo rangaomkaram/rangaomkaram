@@ -3,10 +3,9 @@
 - 📫 I have experienced in programming languages like <b>Python,SQL,JavaScript,R,C++</b>
 - 📫 Skills earned 
        <ul>
-       <li> UI / Forntend         - HTML, CSS, JavaScript, BOOTSTRAP, React.js</li>
-       <li> DataBases             - MySQL,PostgreSQL,MongoDB </li>
-       <li> Backend Development   - Node.js, express.js </li>
-       <li> Data Analytics       - PowerBI, EXCEL
+       <li> FrontEnd         - HTML, CSS, JavaScript, BOOTSTRAP, React.js</li>
+       <li> DataBases        - MySQL,PostgreSQL,MongoDB </li>
+       <li> Backend          - Node.js, express.js </li>
       </ul>
 
 - 📫 I worked with IDEs VSCode, QTCreator, PyCharm
