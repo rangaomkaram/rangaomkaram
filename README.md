@@ -5,16 +5,16 @@
        <ul>
        <li> UI / Forntend         - HTML, CSS, JavaScript, BOOTSTRAP, React.js</li>
        <li> DataBases             - MySQL,PostgreSQL,MongoDB </li>
-       <li> Backend Development   - Flask/Django,Node.js  </li>
-        <li> Data Analytics       - SQL, PowerBI, EXCEL
+       <li> Backend Development   - Node.js, express.js </li>
+       <li> Data Analytics       - PowerBI, EXCEL
       </ul>
 
-- 📫 I worked with Software Tools like VSCode, QTCreator, and QGIS.
+- 📫 I worked with IDEs VSCode, QTCreator, PyCharm
 - 📫 I worked as a Geo-Spatial Analyst intern (Domain: Agriculture) 
 
 
  
 <!---
-rangaomkaram/rangaomkaram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+rangaomkaram /My Profile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
