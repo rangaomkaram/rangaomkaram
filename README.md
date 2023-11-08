@@ -9,7 +9,8 @@
       </ul>
 
 - 📫 I worked with IDEs VSCode, QTCreator, PyCharm
-- 📫 I worked as a Geo-Spatial Analyst intern (Domain: Agriculture) 
+  
+<!--- 📫 I worked as a Geo-Spatial Analyst intern (Domain: Agriculture) --->
 
 
  
