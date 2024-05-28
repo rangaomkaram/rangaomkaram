@@ -10,8 +10,12 @@
 
 - 📫 I worked with IDEs VSCode, QTCreator, PyCharm
 
+
+
+
   [![trophy](https://github-profile-trophy.vercel.app/?username=rangaomkaram)](https://github.com/ryo-ma/github-profile-trophy)
-  
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=rangaomkaram&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--- 📫 I worked as a Geo-Spatial Analyst intern (Domain: Agriculture) --->
 
 
