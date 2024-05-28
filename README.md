@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rangaomkaram
--  📫 At present working as a Front-end Developer
+-  📫 At present, I am working as a Front-end Developer
 - 📫 I have experienced in programming languages like <b>JavaScript, Python, R(RStudio), Cpp</b>
 - 📫 Skills earned 
        <ul>
