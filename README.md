@@ -6,10 +6,8 @@
        <li> FrontEnd         - HTML, CSS, JavaScript, BOOTSTRAP, TailWind, React</li>
        <li> DataBases        - MySQL,PostgreSQL,MongoDB </li>
        <li> Backend          - Node.js, express.js </li>
-       <li> IDE              - VSCode, QTCreator, PyCharm
+       <li> IDE              - VSCode, QTCreator, PyCharm </li>
       </ul>
-
-- 📫 I worked with 
 
 
 
