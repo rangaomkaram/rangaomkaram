@@ -10,7 +10,7 @@
 
 - 📫 I worked with IDEs VSCode, QTCreator, PyCharm
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rangaomkaram)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rangaomkaram)](https://github.com/rangaomkaram/github-readme-stats)
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=rangaomkaram&theme=discord)](https://github.com/rangaomkaram/github-profile-trophy)
 
