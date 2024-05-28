@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rangaomkaram)](https://github.com/anuraghazra/github-readme-stats)
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=rangaomkaram&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rangaomkaram&theme=discord)](https://github.com/rangaomkaram/github-profile-trophy)
 <!--- 📫 I worked as a Geo-Spatial Analyst intern (Domain: Agriculture) --->
 
 
