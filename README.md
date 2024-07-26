@@ -3,10 +3,11 @@
 - 📫 I have experienced in programming languages like <b>JavaScript, Python, R(RStudio), Cpp</b>
 - 📫 Skills earned 
   <ul>
-       <li> FrontEnd         - HTML, CSS, JavaScript, BOOTSTRAP, TailWind, React</li>
+       <li> FrontEnd         - HTML, CSS, JavaScript, TypeScript,TailWind, React</li>
        <li> DataBases        - MySQL,PostgreSQL,MongoDB </li>
        <li> Backend          - Node.js, express.js </li>
        <li> IDE              - VSCode, QTCreator, PyCharm </li>
+       <li> Tools            - Jira, StoryBook                           </li>
   </ul>
 
 
