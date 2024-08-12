@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rangaomkaram" alt="rangaomkaram" /></a> </p>
 
-- 🔭 I’m currently working on [Megaroy](https://megaroy.com/)
+- 🔭 I’m currently working in [Megaroy](https://megaroy.com/)
 
 - 💬 Ask me about **React, JavaScript, TypeScript, Python**
 
@@ -34,12 +34,14 @@
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
+<div align = "center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rangaomkaram&show_icons=true&locale=en&layout=compact" alt="rangaomkaram" width = "400px" height = "500px" /></p>
-
+</div>
+<div align = "center">
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rangaomkaram&" alt="rangaomkaram"  width = "400px" height = "400px"/></p>
 
-
+</div>
 
 
 <!---![ranga's GitHub stats](https://github-readme-stats.vercel.app/api?username=rangaomkaram&show_icons=true&theme=radical) --->
