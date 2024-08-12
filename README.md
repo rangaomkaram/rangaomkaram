@@ -41,9 +41,13 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rangaomkaram&show_icons=true&locale=en&layout=compact" alt="rangaomkaram" /></p>
 <br/>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rangaomkaram&show_icons=true&locale=en" alt="rangaomkaram" /></p>
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rangaomkaram&" alt="rangaomkaram" /></p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rangaomkaram&" alt="rangaomkaram" />
+</br>
+</p>
 
 
 
