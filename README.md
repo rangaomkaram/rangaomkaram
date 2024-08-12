@@ -35,11 +35,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 <div align = "center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rangaomkaram&show_icons=true&locale=en&layout=compact" alt="rangaomkaram" width = "400px" height = "500px" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rangaomkaram&show_icons=true&locale=en&layout=compact" alt="rangaomkaram" /></p>
 </div>
 <div align = "center">
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rangaomkaram&" alt="rangaomkaram"  width = "400px" height = "400px"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rangaomkaram&" alt="rangaomkaram"/></p>
 
 </div>
 
