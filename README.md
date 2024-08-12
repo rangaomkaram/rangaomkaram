@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ranga+Sesha;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ranga+Sesha+Frontend+Developer;" />
 </h1>
+
 <h3 align="center">Experienced Front-End Web Developer | React | Node.js | TailWind | TypeScript | JavaScript | MongoDB | Python | ETL</h3>
 <br/>
 
