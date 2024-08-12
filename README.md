@@ -37,9 +37,9 @@
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rangaomkaram&show_icons=true&locale=en&layout=compact" alt="rangaomkaram" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rangaomkaram&show_icons=true&locale=en&layout=compact" alt="rangaomkaram" width = "400px" height = "500px" /></p>
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rangaomkaram&" alt="rangaomkaram" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rangaomkaram&" alt="rangaomkaram"  width = "400px" height = "500px"/>
 </p>
 
 
