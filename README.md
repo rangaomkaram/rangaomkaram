@@ -13,10 +13,7 @@
 
 - 📫 How to reach me **https://linkedin.com/in/rangaomkaram/**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rangaomkaram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rangaomkaram/" height="30" width="40" /></a>
-</p> 
+
 
 ## 💪Technical Skills
 
@@ -52,40 +49,11 @@
 <br/>
 <hr/>
 
-<hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br/>
-<div align = "center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rangaomkaram&show_icons=true&locale=en&layout=compact" alt="rangaomkaram" /></p>
-</div>
-<div align = "center">
-<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rangaomkaram&" alt="rangaomkaram"/></p>
+## 🤝Let's Connect:
 
-</div>
+<a href="https://www.linkedin.com/in/rangaomkaram/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+<a href="https://medium.com/@rangasesha.uday"> ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) </a>
+<a href="https://x.com/ranga_omkaram"> ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) </a>
 
 
-<!---![ranga's GitHub stats](https://github-readme-stats.vercel.app/api?username=rangaomkaram&show_icons=true&theme=radical) --->
-<!--- 📫 I worked as a Geo-Spatial Analyst intern (Domain: Agriculture) --->
 
-
-<!---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rangaomkaram)](https://github.com/rangaomkaram/github-readme-stats)
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=rangaomkaram&theme=discord)](https://github.com/rangaomkaram/github-profile-trophy)
- 
-rangaomkaram /My Profile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-- 👋 Hi, I’m @rangaomkaram
--  📫 At present, I am working as a Front-end Developer
-- 📫 I have experienced in programming languages like <b>JavaScript, Python, R(RStudio), Cpp</b>
-- 📫 Skills earned 
-  <ul>
-       <li> FrontEnd         - HTML, CSS, JavaScript, TypeScript, TailWind, React</li>
-       <li> DataBases        - MySQL,PostgreSQL,MongoDB </li>
-       <li> Backend          - Node.js, express.js, Mongoose </li>
-       <li> IDE              - VSCode, QTCreator, PyCharm </li>
-       <li> Tools            - Jira, StoryBook                           </li>
-  </ul>
---->
