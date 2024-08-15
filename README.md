@@ -2,14 +2,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ranga+Sesha+Frontend+Developer;" />
 </h1>
 
-
+## A Frontend Developer.
+-  I enjoy using modern technologies to build web-based applications that leave a lasting impression on users.
+-  I learn from the open-source community while building tools for the wider tech ecosystem.
+-  I also write, writing helps me consolidate my knowledge and share the lessons with others.
+-  I have completed my internship, and it’s always a great experience to help beginners navigate a great career in Tech.
 - 🔭 I’m currently working in [Megaroy](https://megaroy.com/)
-
 - 💬 Ask me about **React, JavaScript, TypeScript, Python**
-
-- 📫 How to reach me **https://linkedin.com/in/rangaomkaram/**
-
-
 
 ## 💪Technical Skills
 
