@@ -2,10 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ranga+Sesha+Frontend+Developer;" />
 </h1>
 
-<h3 align="center">Experienced Front-End Web Developer | React | Node.js | TailWind | TypeScript | JavaScript | MongoDB | Python | ETL</h3>
-<br/>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rangaomkaram" alt="rangaomkaram" /></a> </p>
 
 - 🔭 I’m currently working in [Megaroy](https://megaroy.com/)
 
