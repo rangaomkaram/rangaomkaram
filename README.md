@@ -7,7 +7,7 @@
 -  I learn from the open-source community while building tools for the wider tech ecosystem.
 -  I also write, writing helps me consolidate my knowledge and share the lessons with others.
 -  I have completed my internship, and it’s always a great experience to help beginners navigate a great career in Tech.
-- 🔭 I’m currently working in [Megaroy](https://megaroy.com/)
+- 🔭 I’m currently working in [Megaroy Solutions](https://megaroy.com/)
 - 💬 Ask me about **React, JavaScript, TypeScript, Python**
 
 ## 💪Technical Skills
