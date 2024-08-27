@@ -49,6 +49,8 @@
 <a href="https://www.linkedin.com/in/rangaomkaram/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 <a href="https://medium.com/@rangasesha.uday"> ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) </a>
 <a href="https://x.com/ranga_omkaram"> ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) </a>
-
-
+<div align = "center">
+<h3>No of Vistors</h3>
+    <img src ="https://profile-counter.glitch.me/{rangaomkaram}/count.svg?" />
+</div>
 
