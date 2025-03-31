@@ -4,7 +4,7 @@
 
 ### Frontend Developer
 -  I enjoy using modern technologies to build web-based applications that leave a lasting impression on users.
-- 💬 Ask me about **React, JavaScript, TypeScript, Python**
+- 💬 **React, JavaScript, TypeScript, Python**
 
 ## 💪Technical Skills
 
