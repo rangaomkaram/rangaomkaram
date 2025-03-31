@@ -4,8 +4,6 @@
 
 ### Frontend Developer
 -  I enjoy using modern technologies to build web-based applications that leave a lasting impression on users.
--  I learn from the open-source community while building tools for the wider tech ecosystem.
--  I also write, which helps me consolidate my knowledge and share the lessons with others.
 - 💬 Ask me about **React, JavaScript, TypeScript, Python**
 
 ## 💪Technical Skills
