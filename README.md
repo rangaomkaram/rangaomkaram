@@ -9,7 +9,15 @@
 ## 💪Technical Skills
 
 ![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge)
 ![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&labelColor=purple)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&labelColor=white)
+![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&labelColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-white?style=for-the-badge&labelColor=orange)
+![GIT](https://img.shields.io/badge/GIT-white?style=for-the-badge&labelColor=black)
+![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge&labelColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&labelColor=yellow)
+
 
 
 
