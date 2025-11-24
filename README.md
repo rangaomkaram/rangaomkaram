@@ -4,7 +4,7 @@
 
 ### DevOps Engineer 
 -  I enjoy using modern technologies to build automating and maintain web-based applications that leave a lasting impression on users.
-- 💬 **Python, bash Scripting, GIT, Jenkins, Docker,  AWS**
+- 💬 **Python, bash Scripting, GIT, Jenkins, Docker,  AWS, Azure, Kubernetes, GITHUB, linux, Terraform, Ansible**
 
 ## 💪Technical Skills
 ![AWS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=aws&logoColor=%2361DAFB)
