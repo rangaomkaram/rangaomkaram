@@ -14,9 +14,9 @@
 ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&labelColor=white)
 ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&labelColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-white?style=for-the-badge&labelColor=orange)
-![GIT](https://img.shields.io/badge/GIT-white?style=for-the-badge&labelColor=black)
 ![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge&labelColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&labelColor=yellow)
+![bash](https://img.shields.io/badge/bash-blue?style=for-the-badge&labelColor=black)
 
 
 
